@@ -1,0 +1,101 @@
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 1240px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: red; /* اللون عند التحويم */
+}
+.pro{
+    border-radius: 50%;
+}
+.body3{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.photo5{
+    border-radius: 50%;
+}
+.edit{
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgba(68, 63, 63, 0.582);
+    margin: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo4{
+    display: flex;
+    
+}
+.all10{
+    background-color: black;
+}
+.all1{
+    display: flex;
+}
+.wh{
+    color: white;
+    margin: 25px;
+}
+.display{
+    display: flex;
+    color:white;
+    
+    
+}
+.foollw{
+    margin: 17px;
+
+}
+.inform{
+    color: white;
+    
+}
+.borde{
+    border-radius: 50%;
+
+}
+.margain{
+    margin: 30px;
+    color: white;
+}
+.photo10{
+    display: flex;
+}
+.tabe{
+    color: white;
+}
+.img6{
+    margin: 15px;
+}
+.img5{
+    display: flex;
+}
+.color-change{
+
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    
+}
+
+.color-change:hover{
+    background-color: #473e3ebe; 
+    
+}

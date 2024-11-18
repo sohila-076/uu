@@ -1,0 +1,478 @@
+.creat{
+    color: white;
+    width:90px;
+    height:30px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    background-color: black;
+
+
+   
+
+}
+.sign{
+    margin: 15px;
+}
+.cours{
+    margin: 15px;
+}
+.book{
+    margin: 15px;
+}
+.join{
+    margin: 15px;
+}
+.expert{
+    margin: 15px;
+}
+.all{
+    margin-left: 250px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin-left: 580px;
+    margin-right:15px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.profile{
+
+font-size: 50px;
+color: red;
+
+
+
+}
+.easy{
+    display: flex;
+    color: white;
+    margin-right:15px;
+}
+.tee{
+    color: red;
+    margin-top:15px;
+}
+.online{
+    margin-top: 30px;
+}
+.easy2{
+    margin-top: 20px;
+}
+.courss{
+    display: flex;
+    margin: 20px;
+    margin-left:140px;
+    width:250px;
+    background-color:	black ;
+    width: 1700px;
+    height: 400px;
+    border-radius: 20px;
+
+}
+.acc{
+    margin: 10px;
+    color: #B93B8F;
+    position: relative;
+    background-color: red;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+
+
+}
+.eng{
+    margin: 10px;
+    color:	#7D053F;
+    position: relative;
+    background-color: red;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+
+
+} 
+.fot{
+    margin: 10px;
+    position: relative;
+    background-color: red;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+}
+.marketing{
+
+    margin: 10px;
+    position: relative;
+    background-color: red;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+}
+.rr{
+    margin: 10px;
+    border-radius: 10px;
+    
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color:#C11B17 ;
+    
+    }
+
+.almane{ 
+    margin: 10px;
+    position: relative;
+    background-color: red;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+
+
+}
+.text-overlay{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: white;
+    text-align: center; /* محاذاة النص في المنتصف */
+    transition: transform 0.3s; /* تأثير الانتقال */
+}
+.text-overlay:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+.all1{
+    position: relative;
+    display: flex;
+}
+
+
+.photo2{
+position: relative;
+}
+.red{
+    position: relative;
+    margin-top: 100px;
+    
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 15px;
+}
+.text{
+    position: absolute;
+    color:white ;
+    top: 20px;
+font-size: 50px;
+}
+
+.sign3{
+    background-color:red;
+    color: white;
+    position: absolute;
+    top:125px ;
+    width: 300px;
+    height:80px;
+    border-radius: 10px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    transition: filter 0.3s ease;
+    
+}
+.color-change {
+    transition: filter 0.3s ease;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.color-change:hover {
+    filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+    
+}
+.sign3{
+    filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+    
+}
+  .follow{
+    background-color: red;
+    margin: 20px;
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 100px;
+    transition: filter 0.3s ease;
+  }  
+.body{
+background-color:	#000000d8 ;
+display: flex;
+width: 1700px;
+margin: 50px;
+height: 400px;
+border-radius: 20px;
+
+}
+.icon2{
+    
+    color:#FFFF00 ;
+    margin: 50px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:#C11B17 ;
+    
+}
+.all4{
+    display: flex;
+    justify-content: center;
+}
+.work{
+    background-color:#C11B17 ;
+    width:250px;
+    color:#FFFF00 ;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 20px;;
+    border-radius: 20px;
+
+}
+
+.follow:hover {
+    filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+    
+}
+.background{
+position: relative;
+
+
+
+
+}
+
+
+#colorBox {
+    width: 600px; /* عرض الديف */
+    height: 200px; /* ارتفاع الديف */
+    background-color: red; /* اللون الابتدائي */
+    transition: background-color 2s ease; /* تأثير الانتقال */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto; /* توسيط الديف */
+    color: white; /* لون النص */
+    font-size: 20px; /* حجم النص */
+    border-radius: 10px; /* زوايا دائرية */
+    font-size: 30px;
+}
+.body3{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex; /* استخدام الفليكس لتنسيق العناصر */
+}
+
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 1000px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: red; /* اللون عند التحويم */
+}
+.red{
+    position: relative;
+}
+.bleu{
+    position: absolute;
+    top: 1200px;
+}
+.footer{
+    background-color: 	#000;
+    width: 2000px;
+    height: 600px;
+    text-align: center; /* محاذاة النص في المنتصف */
+    transition: transform 0.3s; /* تأثير الانتقال */
+}
+.footer:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+
+.courses {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #ff4757; /* لون أحمر */
+}
+
+.course-category {
+    background-color:#000; /* لون داكن للكورسات */
+    border: 2px solid #ff4757; /* إطار أحمر */
+    border-radius: 50px;
+    margin: 15px 0;
+    padding: 20px;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
+}
+
+.course-category {
+    font-size: 2em;
+    color:red; /* أيقونات حمراء */
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.course-category:hover {
+    background-color: #420606fa; /* خلفية داكنة عند التمرير */
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #ff4757; /* عنوان أحمر */
+}
+
+.wh1 {
+    color:white; /* نص باهت */
+}
+.icon-circle{
+    width: 60px; /* عرض الدائرة */
+    height: 60px; /* ارتفاع الدائرة */
+    border-radius: 50%; /* جعل الشكل دائري */
+    background-color: hsl(355, 77%, 25%); /* خلفية حمراء */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right:30 px;
+    line-height: 50px; /* ضبط المحاذاة العمودية */
+    
+}
+.icon-circle{
+
+    color: #fff; /* أيقونات بيضاء */
+    font-size: 1em; /* حجم الأيقونة */
+}
+.type{ 
+    width:400px ;  
+    height: 80px;
+    border-radius: 50px;
+    background-color: hsl(355, 77%, 25%); /* خلفية حمراء */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 130px;
+  text-align: center; /* محاذاة النص في المنتصف */
+  transition: transform 0.3s; /* تأثير الانتقال */
+}
+.type:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+.mm{
+    color:white;
+    margin: 50px;
+    margin-top: 30px;
+
+}
+  
+.icon7{
+    font-size: 200px;
+    color: hsl(355, 77%, 25%); /* خلفية حمراء */
+    width: 250px;
+
+}
+.wr{
+    color: white;
+    width: 250px;
+}
+.display{
+    display: flex;
+    margin: 20px;
+    margin-left: 300px;
+}
+.allp{
+    margin: 20px;
+}
+.all10{
+    flex-wrap: wrap;
+
+}
+* {
+    box-sizing: border-box; /* يساعد في التحكم في الحجم */
+}
+.sig{
+    background-color: #A93226;
+    color: white;
+    font-size: 25px;
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s; /* تأثير الانتقال */
+    position: absolute;
+    top: 1630px;
+    left: 300px;
+}
+.sig:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+/* للعروض الكبيرة */
+@media (min-width: 1200px) {
+    /* أنماط معينة للشاشات الكبيرة */
+}
+
+/* للعروض المتوسطة */
+@media (max-width: 1199px) and (min-width: 768px) {
+    /* أنماط معينة للشاشات المتوسطة */
+}
+
+/* للعروض الصغيرة */
+@media (max-width: 767px) {
+    /* أنماط معينة للشاشات الصغيرة */
+}

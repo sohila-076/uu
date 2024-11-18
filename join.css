@@ -1,0 +1,156 @@
+.creat{
+    color: white;
+    width:90px;
+    height:30px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    background-color: black;
+
+
+   
+
+}
+.sign{
+    margin: 15px;
+}
+.cours{
+    margin: 15px;
+}
+.book{
+    margin: 15px;
+}
+.join{
+    margin: 15px;
+}
+.expert{
+    margin: 15px;
+}
+.all{
+    margin-left: 250px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin-left: 580px;
+    margin-right:15px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.profile{
+
+font-size: 50px;
+color: red;
+
+
+
+}
+.easy{
+    display: flex;
+    color: white;
+    margin-right:15px;
+}
+.tee{
+    color: red;
+    margin-top:15px;
+}
+.online{
+    margin-top: 30px;
+}
+.easy2{
+    margin-top: 20px;
+}
+    .display{
+        display: flex;
+        margin-left:300px ;
+        position: absolute;
+        top: 150px;
+        
+        }
+        .race1{
+        
+            margin: 20px;
+          border-radius: 10px;
+          width: 600px;
+          height: 530px;
+          background-color: 	#736AFF;
+        }
+        .race2{
+        
+         margin: 20px;
+         border-radius: 10px;
+         width: 600px;
+         height: 530px;
+         background-color:		#736AFF;
+        }
+        .color-change{
+            border-radius: 10px;
+            transition: filter 0.3s ease;
+            
+        
+        }
+        .word{
+            background-color: 	#461B7E;
+            width: 300px;
+            height: 90px;
+            color: white;
+            border-radius: 10px;
+            
+            margin: 20px;
+            margin-left: 120px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 30px;
+        }
+        .color-change:hover{
+            filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+        
+        }
+        .size{
+            width: 100%;
+            height: 100%;
+        }
+        .back{
+position: relative;
+margin-top: 10px;
+        }
+        
+.container {
+    display: flex; /* استخدام الفليكس لتنسيق العناصر */
+}
+
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 1000px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: red; /* اللون عند التحويم */
+}
+.red{
+    position: relative;
+}
+.bleu{
+    position: absolute;
+    top: 1200px;
+}

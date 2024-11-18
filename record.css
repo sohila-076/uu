@@ -1,0 +1,160 @@
+.body3{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.all1{
+    position: relative;
+    display: flex;
+}
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 800px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: #575757; /* اللون عند التحويم */
+}
+.color-change{
+    border-radius: 10px;
+    transition: filter 0.3s ease;
+    
+
+}
+.color-change:hover{
+    filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+
+}
+.body3{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.all1{
+    position: relative;
+    display: flex;
+}
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 1700px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: #575757; /* اللون عند التحويم */
+}
+.color-change{
+    border-radius: 10px;
+    transition: filter 0.3s ease;
+    
+
+}
+.color-change:hover{
+    filter: drop-shadow(10px 10px 17px rgba(0, 0, 0, 0.9)); 
+
+}
+.creat{
+    color: white;
+    width:90px;
+    height:30px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    background-color: black;
+
+
+   
+
+}
+.sign{
+    margin: 15px;
+}
+.cours{
+    margin: 15px;
+}
+.book{
+    margin: 15px;
+}
+.join{
+    margin: 15px;
+}
+.expert{
+    margin: 15px;
+}
+.all{
+    margin-left: 250px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin-left: 580px;
+    margin-right:15px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.profile{
+
+font-size: 50px;
+color: red;
+
+
+
+}
+.easy{
+    display: flex;
+    color: white;
+    margin-right:15px;
+}
+.tee{
+    color: red;
+    margin-top:15px;
+}
+.online{
+    margin-top: 30px;
+}
+.easy2{
+    margin-top: 20px;
+}
+.back{
+    position: relative;
+}
+.up{
+    position: absolute;
+    top: 90px;
+    left: 350px;
+}
+
+.vido{
+    margin: 20px;
+}

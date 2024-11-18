@@ -1,0 +1,164 @@
+
+.center{
+    width: 150px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 50px;
+
+
+}
+.line{
+    width: 80px;
+    height:5px;
+    background-color: darkgreen;
+
+}
+.rate{
+    
+    margin-top: 300px;
+    margin-right: px;
+    background-color:black;
+    height:500px;
+    width: 400px;
+    border-radius: 10px;
+}
+.input{
+width:350px;
+height: 130px;
+margin: 10px;
+margin-top:50px; 
+color: white;
+font-size: 20px;
+}
+.creat{
+    width:250px;
+    height: 50px;
+    background-color: red;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius:5px;
+    
+}
+.display{
+    display: flex;
+    color: rgba(31, 27, 27, 0.664);
+    background-color: white;
+
+    width: 280px;
+    height: 60px;
+    border-radius: 10px;
+}
+.img2{
+    border-radius: 50%;
+}
+.oo{
+    margin-top: 20px;
+ 
+}
+.profile{
+
+    font-size: 50px;
+    color: red;
+    
+    
+    
+    }
+    .creat{
+        color: white;
+        width:280px;
+        height:50px;
+        margin: 10px;
+        background-color: red;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav{
+        background-color: black;
+    
+    
+       
+    
+    }
+    .sign{
+        margin: 15px;
+    }
+    .cours{
+        margin: 15px;
+    }
+    .book{
+        margin: 15px;
+    }
+    .join{
+        margin: 15px;
+    }
+    .expert{
+        margin: 15px;
+    }
+    .all{
+        margin-left: 250px;
+        display: flex;
+        color: white;
+        justify-content: center;
+        align-items: center;
+    }
+    .icon{
+        margin-left: 580px;
+        margin-right:15px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+    }
+    .profile1{
+    
+    font-size: 100px;
+    color: red;
+    
+    
+    
+    }
+    .easy{
+        display: flex;
+        color: white;
+        margin-right:15px;
+    }
+    .tee{
+        color: red;
+        margin-top:15px;
+    }
+    .online{
+        margin-top: 30px;
+    }
+    .easy2{
+        margin-top: 20px;
+    }
+    .all10{
+
+        
+        width: 100%;
+        height: 100%;
+    }
+    .back{
+        position: relative;
+    }
+    .all5{
+       position: absolute; 
+       top:30px;
+       left: 650px;
+    }
+    .password{
+        border-radius: 7%;
+    }
+    .text{
+        border-radius: 7%;
+    }
+    .input{
+        border-radius: 6%;
+    }

@@ -1,0 +1,254 @@
+.creat{
+    color: white;
+    width:90px;
+    height:30px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    background-color: black;
+
+
+   
+
+}
+.sign{
+    margin: 15px;
+}
+.cours{
+    margin: 15px;
+}
+.book{
+    margin: 15px;
+}
+.join{
+    margin: 15px;
+}
+.expert{
+    margin: 15px;
+}
+.all{
+    margin-left: 250px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin-left: 580px;
+    margin-right:15px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.profile{
+
+font-size: 50px;
+color: red;
+
+
+
+}
+.easy{
+    display: flex;
+    color: white;
+    margin-right:15px;
+}
+.tee{
+    color: red;
+    margin-top:15px;
+}
+.online{
+    margin-top: 30px;
+}
+.easy2{
+    margin-top: 20px;
+}
+
+.icon4{
+    color: white;
+    background-color:red ;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    height: 160px;
+    font-size: 60px;
+    
+    margin-left: 170px;
+    margin-top: 35px;
+}
+.level{
+
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 500px;
+    width: 500px;
+    height:600px;
+
+
+}
+.range{
+    color: white;
+    width: 350px;
+    height: 150px;
+    
+    border-radius: 10px;
+    font-size: 40px;
+    display: flex;
+    
+    margin: 20px;
+    margin-top: 20px;
+    
+    
+
+
+}
+.body3{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.all1{
+    position: relative;
+    display: flex;
+}
+.side {
+    width: 250px; /* عرض الشريط الجانبي */
+    height: 2000px; /* ارتفاع الشريط الجانبي ليملأ الشاشة */
+    background-color:rgba(0, 0, 0, 0.829); /* لون الخلفية */
+    padding-top: 20px; /* مسافة من الأعلى */
+}
+
+.sidenav a {
+    padding: 15px 20px; /* مسافة داخلية */
+    text-decoration: none; /* إزالة الخط السفلي */
+    font-size: 18px; /* حجم الخط */
+    color: white; /* لون النص */
+    display: block; /* جعل العناصر كتلة */
+    transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+.sidenav a:hover {
+    background-color: #575757; /* اللون عند التحويم */
+}
+.body2 body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.course-page {
+    background-color: #000;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.course-title {
+    font-size: 28px;
+    color: #C0392B; /* أحمر غامق */
+}
+
+.course-description {
+    color: #ccc;
+    margin: 10px 0;
+}
+
+.video-container {
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 5px;
+}
+
+.course-features {
+    list-style-type: disc;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #C0392B; /* أحمر غامق */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #A93226; /* لون أغمق عند التمرير */
+}
+.video{
+    margin: 100px;
+}
+.body2{
+    background-color: #000000e1;
+    width: 2000px;
+    height: 2000px;
+    position: relative;
+}
+.red{
+    color: white;
+    background-color: #A93226;
+    width: 300px;
+    height: 70px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    transition: transform 0.3s; /* تأثير الانتقال */
+}
+.wh{
+    color: #fff;
+    margin: 50px;
+}
+.red:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+.sig{
+    background-color: #A93226;
+    color: white;
+    font-size: 25px;
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s; /* تأثير الانتقال */
+    position: absolute;
+    top: 1630px;
+    left: 300px;
+}
+.sig:hover {
+    transform: scale(1.05); /* تكبير طفيف عند المرور */
+}
+.course-features {
+    list-style-type: disc;
+    margin: 20px 0;
+    padding-left: 20px;
+    position: absolute;
+    top:1300px;
+    left: 600px;
+    color: white;
+    font-size: 30px;
+}
